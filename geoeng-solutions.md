@@ -38,39 +38,39 @@ However, due to geoengineering being a rapidly growing industry, there are many 
 BECCS and SAI are not directly comparable as they affect the climate through different methods. However, their comparison is important when considering the future of the Earth to make the most informed decisions. While one single geoengineering project may not be the sole solution to climate change, it is important to choose the best option and weigh the risks and rewards. BECCS appears to be more feasible than SAI, with a higher probability of being implemented in the future, possibly in conjunction with other methods of reducing CO<sub>2</sub> emissions. The execution of the solutions at maximum efficacy requires a deeper understanding of the technologies, as well as the need for public education in order to garner support. Geoengineering may hold the key to our salvation, and the merging of critical analysis and accelerated development is crucial in order to draw out its full potential.
 
 ### References
-Ajayi, T., Gomes, J.S. and Bera, A., 2019. A review of CO2 storage in geological formations emphasizing modeling, monitoring and capacity estimation approaches. *Petroleum Science*, [online] 16(5), pp.1028–1063. ht<span>tp://doi.org/10.1007/s12182-019-0340-8.
+Ajayi, T., Gomes, J.S. and Bera, A., 2019. A review of CO2 storage in geological formations emphasizing modeling, monitoring and capacity estimation approaches. *Petroleum Science*, [online] 16(5), pp.1028–1063. ht<span>tps://doi.org/10.1007/s12182-019-0340-8.
 
-Brovkin, V., Petoukhov, V., Claussen, M., Bauer, E., Archer, D. and Jaeger, C., 2009. Geoengineering climate by stratospheric sulfur injections: Earth system vulnerability to technological failure. *Climatic Change*, [online] 92(3), pp.243–259. https://doi.org/10.1007/s10584-008-9490-1.
+Brovkin, V., Petoukhov, V., Claussen, M., Bauer, E., Archer, D. and Jaeger, C., 2009. Geoengineering climate by stratospheric sulfur injections: Earth system vulnerability to technological failure. *Climatic Change*, [online] 92(3), pp.243–259. ht<span>tps://doi.org/10.1007/s10584-008-9490-1.
 
 de Coninck, H., Revi, A., Babiker, M., Bertoldi, P., Buckeridge, M., Cartwright, A., Dong, W., Ford, J., Fuss, S., Hourcade, J.-C., Ley, D., Mechler, R., Newman, P., Revokatova, A., Bakker, S., Bazaz, A., Belfer, E., Benton, T., Connors, S., de Kleijne, K., Abdulla, A., Boer, R., Howden, M. and Ürge-Vorsatz, D., 2018. Strengthening and Implementing the Global Response. *IPCC*, p.132.
 
-Corry, O., 2017. The international politics of geoengineering: The feasibility of Plan B for tackling climate change. *Security Dialogue*, [online] 48(4), pp.297–315. https://doi.org/10.1177/0967010617704142.
+Corry, O., 2017. The international politics of geoengineering: The feasibility of Plan B for tackling climate change. *Security Dialogue*, [online] 48(4), pp.297–315. ht<span>tps://doi.org/10.1177/0967010617704142.
 
-Creutzig, F., Ravindranath, N.H., Berndes, G., Bolwig, S., Bright, R., Cherubini, F., Chum, H., Corbera, E., Delucchi, M., Faaij, A., Fargione, J., Haberl, H., Heath, G., Lucon, O., Plevin, R., Popp, A., Robledo‐Abad, C., Rose, S., Smith, P., Stromman, A., Suh, S. and Masera, O., 2015. Bioenergy and climate change mitigation: an assessment. *GCB Bioenergy*, [online] 7(5), pp.916–944. https://doi.org/10.1111/gcbb.12205.
+Creutzig, F., Ravindranath, N.H., Berndes, G., Bolwig, S., Bright, R., Cherubini, F., Chum, H., Corbera, E., Delucchi, M., Faaij, A., Fargione, J., Haberl, H., Heath, G., Lucon, O., Plevin, R., Popp, A., Robledo‐Abad, C., Rose, S., Smith, P., Stromman, A., Suh, S. and Masera, O., 2015. Bioenergy and climate change mitigation: an assessment. *GCB Bioenergy*, [online] 7(5), pp.916–944. ht<span>tps://doi.org/10.1111/gcbb.12205.
 
-Gough, C., Thornley, P., Mander, S., Vaughan, N. and Lea-Langton, A., 2018. *Biomass Energy with Carbon Capture and Storage (BECCS): Unlocking Negative Emissions : Unlocking Negative Emissions.* [online] Newark, UNITED KINGDOM: John Wiley & Sons, Incorporated. Available at: <http://ebookcentral.proquest.com/lib/mcmu/detail.action?docID=5451951> [Accessed 6 Mar. 2021].
+Gough, C., Thornley, P., Mander, S., Vaughan, N. and Lea-Langton, A., 2018. *Biomass Energy with Carbon Capture and Storage (BECCS): Unlocking Negative Emissions : Unlocking Negative Emissions.* [online] Newark, UNITED KINGDOM: John Wiley & Sons, Incorporated. Available at: <ht<span>tp://ebookcentral.proquest.com/lib/mcmu/detail.action?docID=5451951> [Accessed 6 Mar. 2021].
 
-Gough, C. and Upham, P., 2011. Biomass energy with carbon capture and storage (BECCS or Bio‐CCS). *Greenhouse Gases: Science and Technology*, 1, pp.324–334. https://doi.org/10.1002/ghg.34.
+Gough, C. and Upham, P., 2011. Biomass energy with carbon capture and storage (BECCS or Bio‐CCS). *Greenhouse Gases: Science and Technology*, 1, pp.324–334. ht<span>tps://doi.org/10.1002/ghg.34.
 
-Haywood, J.M., Jones, A., Bellouin, N. and Stephenson, D., 2013. Asymmetric forcing from stratospheric aerosols impacts Sahelian rainfall. *Nature Climate Change*, [online] 3(7), pp.660–665. https://doi.org/10.1038/nclimate1857.
+Haywood, J.M., Jones, A., Bellouin, N. and Stephenson, D., 2013. Asymmetric forcing from stratospheric aerosols impacts Sahelian rainfall. *Nature Climate Change*, [online] 3(7), pp.660–665. ht<span>tps://doi.org/10.1038/nclimate1857.
 
-IPCC, 2012. *Meeting Report of the Intergovernmental Panel on Climate Change Expert Meeting on Geoengineering.* [Meeting Report] Lima, Peru: Intergovernmental Panel on Climate Change.pp.1–99. Available at: <https://archive.ipcc.ch/pdf/supporting-material/EM_GeoE_Meeting_Report_final.pdf>.
+IPCC, 2012. *Meeting Report of the Intergovernmental Panel on Climate Change Expert Meeting on Geoengineering.* [Meeting Report] Lima, Peru: Intergovernmental Panel on Climate Change.pp.1–99. Available at: <ht<span>tps://archive.ipcc.ch/pdf/supporting-material/EM_GeoE_Meeting_Report_final.pdf>.
 
-Muri, H., 2018. The role of large—scale BECCS in the pursuit of the 1.5°C target: an Earth system model perspective. *Environmental Research Letters*, [online] 13(4), p.044010. https://doi.org/10.1088/1748-9326/aab324.
+Muri, H., 2018. The role of large—scale BECCS in the pursuit of the 1.5°C target: an Earth system model perspective. *Environmental Research Letters*, [online] 13(4), p.044010. ht<span>tps://doi.org/10.1088/1748-9326/aab324.
 
-National Research Council, 2015. *Climate Intervention: Reflecting Sunlight to Cool Earth.* [online] The National Academies Press. https://doi.org/10.17226/18988.
+National Research Council, 2015. *Climate Intervention: Reflecting Sunlight to Cool Earth.* [online] The National Academies Press. ht<span>tps://doi.org/10.17226/18988.
 
-Pope, F.D., Braesicke, P., Grainger, R.G., Kalberer, M., Watson, I.M., Davidson, P.J. and Cox, R.A., 2012. Stratospheric aerosol particles and solar-radiation management. *Nature Climate Change*, [online] 2(10), pp.713–719. https://doi.org/10.1038/nclimate1528.
+Pope, F.D., Braesicke, P., Grainger, R.G., Kalberer, M., Watson, I.M., Davidson, P.J. and Cox, R.A., 2012. Stratospheric aerosol particles and solar-radiation management. *Nature Climate Change*, [online] 2(10), pp.713–719. ht<span>tps://doi.org/10.1038/nclimate1528.
 
-Preston, C.J., 2017. Carbon Emissions, Stratospheric Aerosol Injection, and Unintended Harms. *Ethics & International Affairs*, [online] 31(4), pp.479–493. http://dx.doi.org/10.1017/S0892679417000466.
+Preston, C.J., 2017. Carbon Emissions, Stratospheric Aerosol Injection, and Unintended Harms. *Ethics & International Affairs*, [online] 31(4), pp.479–493. ht<span>tp://dx.doi.org/10.1017/S0892679417000466.
 
-Reynolds, J.L., 2019. Solar geoengineering to reduce climate change: a review of governance proposals. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, [online] 475(2229), p.20190255. https://doi.org/10.1098/rspa.2019.0255.
+Reynolds, J.L., 2019. Solar geoengineering to reduce climate change: a review of governance proposals. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, [online] 475(2229), p.20190255. ht<span>tps://doi.org/10.1098/rspa.2019.0255.
 
-Robock, A., Marquardt, A., Kravitz, B. and Stenchikov, G., 2009. Benefits, risks, and costs of stratospheric geoengineering. *Geophysical Research Letters*, [online] 36(19). https://doi.org/10.1029/2009GL039209.
+Robock, A., Marquardt, A., Kravitz, B. and Stenchikov, G., 2009. Benefits, risks, and costs of stratospheric geoengineering. *Geophysical Research Letters*, [online] 36(19). ht<span>tps://doi.org/10.1029/2009GL039209.
 
-Smith, W., 2020. The cost of stratospheric aerosol injection through 2100. *Environmental Research Letters*, [online] 15(11), p.114004. https://doi.org/10.1088/1748-9326/aba7e7.
+Smith, W., 2020. The cost of stratospheric aerosol injection through 2100. *Environmental Research Letters*, [online] 15(11), p.114004. ht<span>tps://doi.org/10.1088/1748-9326/aba7e7.
 
-Smith, W. and Wagner, G., 2018. Stratospheric aerosol injection tactics and costs in the first 15 years of deployment. *Environmental Research Letters*, [online] 13(12), p.124001. https://doi.org/10.1088/1748-9326/aae98d.
+Smith, W. and Wagner, G., 2018. Stratospheric aerosol injection tactics and costs in the first 15 years of deployment. *Environmental Research Letters*, [online] 13(12), p.124001. ht<span>tps://doi.org/10.1088/1748-9326/aae98d.
 
-Zhang, Z., Moore, J.C., Huisingh, D. and Zhao, Y., 2015. Review of geoengineering approaches to mitigating climate change. *Journal of Cleaner Production*, [online] 103, pp.898–907. https://doi.org/10.1016/j.jclepro.2014.09.076.
+Zhang, Z., Moore, J.C., Huisingh, D. and Zhao, Y., 2015. Review of geoengineering approaches to mitigating climate change. *Journal of Cleaner Production*, [online] 103, pp.898–907. ht<span>tps://doi.org/10.1016/j.jclepro.2014.09.076.
 
