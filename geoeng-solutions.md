@@ -15,6 +15,22 @@ Stratospheric aerosol injection (SAI) is a SRM technique that involves the injec
 ### How do BECCS and SAI Compare? 
 BECCS and SAI have distinct implementation strategies. A global BECCS initiative is made up of many individual units, while SAI is a large, centralized operation that requires massive initial development (Brovkin et al., 2009; National Research Council, 2015). This gives BECCS the ability to function using various private enterprises, as opposed to SAI, which requires collective initiative and funding from multiple nations. Once implemented, BECCS can start and stop operation with no negative implications, as it only affects the rate at which CO<sub>2</sub> is removed from the atmosphere. SAI, on the other hand, carries the risk of a termination shock if injections were stopped, potentially causing a rapid and damaging rise in temperatures (Brovkin et al., 2009). Other important factors including environmental impacts, government and public approval, and financial considerations of BECCS and SAI can be found in Table 1, which demonstrate the favourability of BECCS. 
 
+Table 1: A comparison of the benefits and disadvantages of BECCS and SAI as geoengineering techniques. 
+| CHARACTERISTIC OF TECHNOLOGY                                                                                                                       |        BECCS       |         SAI        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|:------------------:|:------------------:|
+| Mitigates the negative effects of climate change and decreases overall global temperature (de Coninck et al., 2018; Reynolds, 2019)                | :heavy_check_mark: | :heavy_check_mark: |
+| Does not require regular upkeep to keep the technology running smoothly (Brovkin et al., 2009; Muri, 2018)                                         |         :x:        |         :x:        |
+| Will not cause problems, including a potential rapid and damaging rise in temperatures, if implementation ceased (Brovkin et al., 2009)            | :heavy_check_mark: |         :x:        |
+| Has already been implemented on a small scale and does not require new technology to be created (Ajayi, Gomes and Bera, 2019; Robock et al., 2009) | :heavy_check_mark: |         :x:        |
+| Does not affect weather patterns after the technology is implemented (Haywood et al., 2013)                                                        | :heavy_check_mark: |         :x:        |
+| Does not require large land use/deforestation for the technology to be implemented (Gough and Upham, 2011)                                         |         :x:        | :heavy_check_mark: |
+| Provides usable energy to consumers (Gough and Upham, 2011)                                                                                        | :heavy_check_mark: |         :x:        |
+| Would not have a large initial investment (Smith, 2020)                                                                                            | :heavy_check_mark: |         :x:        |
+| More cost-effective in the long run (Smith and Wagner, 2018)                                                                                       |         :x:        | :heavy_check_mark: |
+| Can be implemented by a single country and does not require international cooperation (National Research Council, 2015; Creutzig et al., 2015)     | :heavy_check_mark: |         :x:        |
+|    Has governmental support to implement the technology (IPCC, 2012)                                                                               | :heavy_check_mark: | :heavy_check_mark: |
+| Likely to gain public support for wide-spread implementation (Corry, 2017)                                                                         | :heavy_check_mark: |         :x:        |
+
 ### Limitations of Geoengineering 
 However, due to geoengineering being a rapidly growing industry, there are many challenges in its implementation. While the engineering of the technology is driving the enterprise forward, public and political perception often limits its roll-out, since there is hesitation in implementing such world-altering solutions. This is also brought on by the limitations of models and small-scale studies, which may not accurately predict costs, benefits, and consequences of the technologies. 
 
